@@ -1,7 +1,7 @@
 .idea
 *.iml
 personal-9894.md
-
+.obsidian
 # Targets Windows & Unix temporary files
 ~$*
 *~

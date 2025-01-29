@@ -78,8 +78,8 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
+- [What is it?](##what-is-it)
+- [Why use it?](###why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [A Note About Video Resources](#a-note-about-video-resources)
@@ -601,7 +601,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 - ### Arrays
     - [ ] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
-        - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+        - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
